@@ -5,7 +5,9 @@ This project demonstrates a practical, enterprise-style cyber risk assessment fo
 
 ## Visual Artifacts
 - [Cyber Risk Heat Map (PDF)](diagrams/Cyber_Risk_Heat_Map.pdf)
-- 
+- [System Architecture Diagram](diagrams/system_architecture.png)
+- [Threat Scenarios & Attack Paths](diagrams/threat_flow.png)
+  
 ## Contents
 - `executive_summary.md` – 1-page executive overview of key risks and priorities
 - `system_overview.md` – system scope, assets, data types, trust boundaries
